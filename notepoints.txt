@@ -13,4 +13,4 @@ pppoephisher
 routersploit
 
 社工密码cupp 
-             cupper pydictor
+             cupper pydictor genPass
