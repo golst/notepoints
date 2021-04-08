@@ -1,0 +1,3 @@
+1、写python扩展模块一般格式:
+#define PY_SSIZE_T_CLEAN 
+#include<Python.h>
